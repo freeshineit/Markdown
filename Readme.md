@@ -6,6 +6,7 @@ Markdown的出现是为了方便编写人员易写易读
 <table>
 	<tr>
 		<td>HTML标签</td>
+		<td>HTML标签</td>
 	</tr>
 </table>
 <div>HTML区块标签中书写Markdown语法</div>
