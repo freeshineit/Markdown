@@ -4,10 +4,20 @@ Markdown的出现是为了方便编写人员易写易读
 
 #### HTML标签
 <table>
-	<tr>
-		<td>HTML标签</td>
-		<td>HTML标签</td>
-	</tr>
+	<theader>
+		<th>表头1</th>
+		<th>表头2</th>
+	</theader>
+	<tbody>
+		<tr>
+			<td>HTML标签</td>
+			<td>HTML标签</td>
+		</tr>
+		<tr>
+			<td>HTML标签</td>
+			<td>HTML标签</td>
+		</tr>
+	</tbody>
 </table>
 <div>HTML区块标签中书写Markdown语法</div>
 
